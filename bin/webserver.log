@@ -1,0 +1,2715 @@
+2021-07-05 22:03:13
+new connection from 192.168.1.109:38424 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:13
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:13
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:13
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:13
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:13
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:13
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:13
+new connection from 192.168.1.109:38428 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:13
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:13
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:13
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:13
+new connection from 192.168.1.109:38430 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:13
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:13
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:13
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:19
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:19
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:19
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:19
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:19
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:19
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:19
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:19
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:19
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:19
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:20
+Request: Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+new connection from 192.168.1.109:38456 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:20
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:20
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Li -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:20
+Request: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:20
+new connection from 192.168.1.109:38460 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:20
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:20
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:20
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 ( -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+Request: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/* -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+Request: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:21
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHT -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+Request: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:21
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324. -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:21
+Request: User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:21
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:21
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:22
+new connection from 192.168.1.109:38464 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:22
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:22
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:22
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:22
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:22
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:22
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:22
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:22
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:22
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:22
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+new connection from 192.168.1.109:38470 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:22
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+new connection from 192.168.1.109:38474 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:22
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+new connection from 192.168.1.109:38476 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-05 22:03:22
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:22
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:22
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-05 22:03:22
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-05 22:03:23
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:23
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:23
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:23
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:23
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:23
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:23
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:23
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:23
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:23
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:23
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:23
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-05 22:03:23
+Request:  -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-05 22:03:23
+Half Closing -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:151
+2021-07-05 22:03:23
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-05 22:03:23
+error happened: close -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:314
+2021-07-29 15:10:16
+new connection from 127.0.0.1:45952 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:10:16
+new connection from 127.0.0.1:45954 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:10:16
+Request: GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:16
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:16
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:10:16
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:16
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:16
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:10:16
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:16
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:16
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:10:16
+new connection from 127.0.0.1:45956 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:10:16
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:16
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:16
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:10:16
+Request: GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:16
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:16
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:10:18
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:10:18
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:10:18
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:11:16
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:11:16
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:11:18
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:12:55
+new connection from 127.0.0.1:46016 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:12:55
+new connection from 127.0.0.1:46018 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:12:55
+Request: GET /index.html HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:12:55
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:12:55
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:12:55
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:12:55
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:12:55
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:12:55
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:12:55
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:12:55
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:12:55
+new connection from 127.0.0.1:46020 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:12:55
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/index.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:12:55
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:12:55
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:13:55
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:13:55
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:13:55
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:14:07
+new connection from 127.0.0.1:46088 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:14:07
+new connection from 127.0.0.1:46090 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:14:07
+Request: GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:14:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:14:07
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:14:07
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:14:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:14:07
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:14:07
+new connection from 127.0.0.1:46092 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:14:07
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:14:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:14:07
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:14:07
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 127.0.0.1:8080
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:14:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:14:07
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:15:07
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:15:07
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:15:07
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:20:53
+new connection from 113.54.195.67:46836 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:20:53
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:53
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:53
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:53
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:53
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:53
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:53
+new connection from 113.54.195.67:46842 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:20:53
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:53
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:53
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:53
+new connection from 113.54.195.67:46844 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:20:53
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:53
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:53
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:53
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:53
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:53
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:54
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:54
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:54
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:59
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:59
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:59
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:59
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:59
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:59
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:59
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:59
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:59
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:20:59
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:20:59
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:20:59
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:21:00
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:21:00
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:21:00
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:21:59
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:21:59
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:22:00
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:23:34
+new connection from 113.54.195.67:46890 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:23:34
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:23:34
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:23:34
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:23:34
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:23:34
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:23:34
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:23:34
+new connection from 113.54.195.67:46894 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:23:34
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:23:34
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:23:34
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:23:35
+new connection from 113.54.195.67:46896 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:23:35
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:23:35
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:23:35
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:24:35
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:24:35
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:24:35
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:25:28
+new connection from 113.54.195.67:47012 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:25:28
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:28
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:28
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:25:28
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:28
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:28
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:25:28
+new connection from 113.54.195.67:47016 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:25:28
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:28
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:28
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:25:28
+new connection from 113.54.195.67:47018 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 15:25:28
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:28
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:28
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:25:29
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:29
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:29
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:25:31
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 15:25:31
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 15:25:31
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 15:26:28
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:26:28
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 15:26:31
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:09:15
+new connection from 113.54.195.67:48480 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:15
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Purpose: prefetch
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:15
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:15
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:15
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:15
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:15
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:15
+new connection from 113.54.195.67:48486 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:15
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:15
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:15
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:15
+new connection from 113.54.195.67:48488 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:15
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+Accept: application/signed-exchange;v=b3;q=0.9,*/*;q=0.8
+Purpose: prefetch
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:15
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:15
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:37
+new connection from 113.54.195.67:48496 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:37
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:37
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:37
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:37
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:37
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:37
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:37
+new connection from 113.54.195.67:48498 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:37
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:37
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:37
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:37
+new connection from 113.54.195.67:48500 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 17:09:37
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:37
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:37
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:09:37
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 17:09:37
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 17:09:37
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 17:10:15
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:10:15
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:10:15
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:10:37
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:10:37
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 17:10:37
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 18:05:06
+new connection from 113.54.195.67:48714 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 18:05:06
+Request: GET / HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:06
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:06
+HTTP/1.1 200 OK
+Content-Length:	977
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:07
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:07
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:07
+new connection from 113.54.195.67:48718 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 18:05:07
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:07
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:07
+new connection from 113.54.195.67:48720 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Server.cpp:66
+2021-07-29 18:05:07
+Request: GET /img/picture3.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:07
+HTTP/1.1 200 OK
+Content-Length:	12571
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:07
+Request: GET /favicon.ico HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:07
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:07
+HTTP/1.1 200 OK
+Content-Length:	16958
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:19
+Request: GET /bookmark.html HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:19
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:19
+HTTP/1.1 200 OK
+Content-Length:	270703
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:24
+Request: GET /img/picture1.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:24
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:24
+HTTP/1.1 200 OK
+Content-Length:	15052
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:27
+Request: GET /img/picture2.jpg HTTP/1.1
+Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:27
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:27
+HTTP/1.1 200 OK
+Content-Length:	12559
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	image/jpeg
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:05:30
+Request: GET /bookmark.html HTTP/1.1
+Host: 40 -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:30
+No Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:183
+2021-07-29 18:05:30
+Request: Host: 407816at67.qicp.vip
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.55
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://407816at67.qicp.vip/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:132
+2021-07-29 18:05:30
+Get Request -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:170
+2021-07-29 18:05:30
+HTTP/1.1 200 OK
+Content-Length:	270703
+Server:	CJJ WebServer
+Connection:	keep-alive
+Content-Type:	text/html
+Keep-Alive:	timeout=60
+
+ -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/HttpData.cpp:421
+2021-07-29 18:06:07
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 18:06:07
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
+2021-07-29 18:06:30
+Time up, handleClose -- /home/jimmy/cpp_code/cuixiangmi_webserver/src/Timer.cpp:40
